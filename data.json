@@ -1,0 +1,7 @@
+{
+    "version": "1.0",
+    "messages": {
+      "start": "Started ^2successfully^0, thank you for your choosing us",
+      "update": "Your version is out of date, please download {version.new}"
+    }
+}

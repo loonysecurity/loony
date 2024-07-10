@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "messages": {
-      "start": "Started ^2successfully^0, thank you for your choosing us",
-      "update": "Your version is out of date, please download ^3{version.new}^0"
+      "start": "Başlatıldı ^2başarıyla^0, bizi tercih ettiğiniz için teşekkür ederiz",
+      "update": "Sürümünüz güncel değil, lütfen ^3{version.new}^0 dosyasını indirin"
     }
 }
